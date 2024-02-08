@@ -1,0 +1,14 @@
+C:\Users\LAS\source\repos\HW7.ParallelReaderConsole\HW7.ParallelReaderConsole\bin\Debug\net6.0\HW7.ParallelReaderConsole.exe
+C:\Users\LAS\source\repos\HW7.ParallelReaderConsole\HW7.ParallelReaderConsole\bin\Debug\net6.0\HW7.ParallelReaderConsole.deps.json
+C:\Users\LAS\source\repos\HW7.ParallelReaderConsole\HW7.ParallelReaderConsole\bin\Debug\net6.0\HW7.ParallelReaderConsole.runtimeconfig.json
+C:\Users\LAS\source\repos\HW7.ParallelReaderConsole\HW7.ParallelReaderConsole\bin\Debug\net6.0\HW7.ParallelReaderConsole.dll
+C:\Users\LAS\source\repos\HW7.ParallelReaderConsole\HW7.ParallelReaderConsole\bin\Debug\net6.0\HW7.ParallelReaderConsole.pdb
+C:\Users\LAS\source\repos\HW7.ParallelReaderConsole\HW7.ParallelReaderConsole\obj\Debug\net6.0\HW7.ParallelReaderConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAS\source\repos\HW7.ParallelReaderConsole\HW7.ParallelReaderConsole\obj\Debug\net6.0\HW7.ParallelReaderConsole.AssemblyInfoInputs.cache
+C:\Users\LAS\source\repos\HW7.ParallelReaderConsole\HW7.ParallelReaderConsole\obj\Debug\net6.0\HW7.ParallelReaderConsole.AssemblyInfo.cs
+C:\Users\LAS\source\repos\HW7.ParallelReaderConsole\HW7.ParallelReaderConsole\obj\Debug\net6.0\HW7.ParallelReaderConsole.csproj.CoreCompileInputs.cache
+C:\Users\LAS\source\repos\HW7.ParallelReaderConsole\HW7.ParallelReaderConsole\obj\Debug\net6.0\HW7.ParallelReaderConsole.dll
+C:\Users\LAS\source\repos\HW7.ParallelReaderConsole\HW7.ParallelReaderConsole\obj\Debug\net6.0\refint\HW7.ParallelReaderConsole.dll
+C:\Users\LAS\source\repos\HW7.ParallelReaderConsole\HW7.ParallelReaderConsole\obj\Debug\net6.0\HW7.ParallelReaderConsole.pdb
+C:\Users\LAS\source\repos\HW7.ParallelReaderConsole\HW7.ParallelReaderConsole\obj\Debug\net6.0\HW7.ParallelReaderConsole.genruntimeconfig.cache
+C:\Users\LAS\source\repos\HW7.ParallelReaderConsole\HW7.ParallelReaderConsole\obj\Debug\net6.0\ref\HW7.ParallelReaderConsole.dll
